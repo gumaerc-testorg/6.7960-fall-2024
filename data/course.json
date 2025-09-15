@@ -1,0 +1,35 @@
+{
+  "term": "Fall",
+  "year": "2024",
+  "level": [
+    "Undergraduate",
+    "Graduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "7d08f1d2-c3e7-4693-a74d-f580ec15d437",
+      "324c07a3-84fc-449a-8726-7cc0a2d39d42",
+      "9782f1ac-d72e-4765-a6d1-03751578c672"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "deep-learning"
+  },
+  "course_title": "Deep Learning",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "This course covers the fundamentals of deep learning, including both theory and applications. Topics include neural net architectures (MLPs, CNNs, RNNs, graph nets, transformers), geometry and invariances in deep learning, backpropagation and automatic differentiation, learning theory and generalization in high-dimensions, and applications to computer vision, natural language processing, and robotics.",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.7960",
+  "learning_resource_types": [],
+  "site_uid": "16965224-2612-4f07-be42-d884a3632b5d",
+  "site_short_id": "6.7960-fall-2024",
+  "site_url_path": "courses/6-7960-deep-learning-fall-2024"
+}
