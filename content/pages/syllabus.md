@@ -11,7 +11,7 @@ Lectures: 2 sessions / week; 1.5 hours / session
 
 ## Prerequisites
 
-This course requires you to have taken [*18.05 Introduction to Probability and Statistics*](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/) 
+This course requires you to have taken {{% resource_link "adc6b5c5-08a2-42c3-829e-4e21548aa6d4" "*18.05 Introduction to Probability and Statistics*" %}} 
 
 and one of 6.3720 Introduction to Statistical Data Analysis, 6.3900 Introduction to Machine Learning, or 6.C01 Modeling with Machine Learning: from Algorithms to Applications.
 

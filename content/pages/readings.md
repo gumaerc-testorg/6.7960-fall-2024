@@ -5,9 +5,9 @@ draft: false
 title: Readings
 uid: 7f285659-2e98-42e2-a20e-800bbf33993c
 ---
-Many readings are from [*Foundations of Computer Vision*](https://visionbook.mit.edu/) 
+Many readings are from {{% resource_link "58c4094a-bd9a-438d-8e43-fb3eb34eea46" "*Foundations of Computer Vision*" %}} 
 
-by Antonio Torralba, Phillip Isola, and William T. Freeman. The book is available [online](https://visionbook.mit.edu/) under a CC BY-NC-ND license.
+by Antonio Torralba, Phillip Isola, and William T. Freeman. The book is available {{% resource_link "58c4094a-bd9a-438d-8e43-fb3eb34eea46" "online" %}} under a CC BY-NC-ND license.
 
 \[Vision\] = Torralba, Antonio, Phillip Isola, and William T. Freeman. Foundations of Computer Vision. MIT Press, 2024. ISBN: 9780262048972.
 
@@ -16,7 +16,7 @@ by Antonio Torralba, Phillip Isola, and William T. Freeman. The book is availabl
 **Required Readings:**
 
 - a
-- \[Vision\] [Chapter 12: Neural Networks.](https://visionbook.mit.edu/neural_nets.html)
+- \[Vision\] {{% resource_link "14c874ff-1236-4471-bc97-d40683a14346" "Chapter 12: Neural Networks." %}}
 
  
 
